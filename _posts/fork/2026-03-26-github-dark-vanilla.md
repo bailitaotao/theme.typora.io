@@ -5,7 +5,7 @@ category: fork
 homepage: https://github.com/bailitaotao/typora-github-dark-vanilla-theme
 download: https://github.com/bailitaotao/typora-github-dark-vanilla-theme/blob/main/github-dark-vanilla.css
 author: tim
-thumbnail: https://github.com/bailitaotao/typora-github-dark-vanilla-theme/assets/thumbnail.png
+thumbnail: github-dark-2026.png
 typora-root-url: ../../
 typora-copy-images-to: ../../media/theme/github-dark-vanilla
 ---
